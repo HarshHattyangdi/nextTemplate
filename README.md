@@ -9,7 +9,7 @@ This is a blank Next.js template with no default styling or images. It provides 
 To use this template, you can create a new Next.js app with the following command:
 
 ```bash
-npx create-next-app@latest my-blank-next-app --use-npm --example https://github.com/HarshHattyangdi/nextTemplate.git
+npx create-next-app@latest my-blank-next-app --use-npm --example https://github.com/HarshHattyangdi/nextTemplate
 ```
 
 ## Getting Started
